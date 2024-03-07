@@ -22,7 +22,7 @@ class AppBarWidgetState extends State<AppBarWidget> {
       ),
       //endDrawer: DrawerWidget(),
       body: Container(
-        color: const Color.fromARGB(255, 151, 151, 151),
+        color: Color.fromARGB(255, 248, 172, 122),
       ),
     );
   }

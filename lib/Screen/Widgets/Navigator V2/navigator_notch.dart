@@ -49,7 +49,7 @@ class _BottomNavigationState extends State<BottomNavigation> {
       inActiveColor: Colors.black45,
       appBarItems: [
         navigatorItems("Home", Icons.home_outlined),
-        navigatorItems("Course", Icons.list),
+        navigatorItems("Courses", Icons.list),
         navigatorItems("Updates", Icons.notifications_on_outlined),
         navigatorItems("Menu", Icons.menu_sharp),
       ],
