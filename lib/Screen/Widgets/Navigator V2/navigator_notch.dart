@@ -91,7 +91,7 @@ class _BottomNavigationState extends State<BottomNavigation> {
     return ShaderMask(
         blendMode: BlendMode.srcIn,
         shaderCallback: (Rect bounds) {
-          return ui.Gradient.linear(const Offset(4.0, 25.0), const Offset(25.0, 5.0),
+          return ui.Gradient.linear(const Offset(20.0, 25.0), const Offset(25.0, 5.0),
               [const Color(0xFFF52B4F), const Color(0xFFFF9700)]);
         },
       );
